@@ -5,21 +5,36 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syed-muhammadtaha&label=Profile%20views&color=0e75b6&style=flat" alt="syed-muhammadtaha" /> </p>
 
+<table align="left" border="0px" outline="none">
+<tr border="none">
+<td width="50%"  border="0px" align="left">
+  
+  - 🔭 I’m currently working on **portfolio website**
+  
+  - 🌱 I’m currently learning **Machine Learning from Coursera**
+  
+  - 👯 I’m looking to collaborate on **beginner machine learning projects**
+  
+  - 📝 I regularly write articles on [https://medium.com/@taha-dev](https://medium.com/@taha-dev)
+  
+  - 💬 Ask me about **react, machine learning algorithms, node, mongoDB**
+  
+  - 📫 How to reach me **simam.bscs22seecs@seecs.edu.pk**
+  
+  - ⚡ Fun fact **I love playing football, reading productivity books and listening to wellness podcasts**
+  
+ 
+</td>
 
+<td width="50%" align="center">
 
-- 🔭 I’m currently working on **portfolio website**
+  <img src="https://github.com/Syed-MuhammadTaha/Syed-MuhammadTaha/assets/112904022/ef9b0ec0-b70a-4e26-b763-a5a0e88a71b5" width="70%" margin="10 auto">
+  <h5>👆 Link to my LinkedIn profile!</h5>
+  
+  </td>
+</tr>
+</table>
 
-- 🌱 I’m currently learning **Machine Learning from Coursera**
-
-- 👯 I’m looking to collaborate on **beginner machine learning projects**
-
-- 📝 I regularly write articles on [https://medium.com/@taha-dev](https://medium.com/@taha-dev)
-
-- 💬 Ask me about **react, machine learning algorithms, node, mongoDB**
-
-- 📫 How to reach me **simam.bscs22seecs@seecs.edu.pk**
-
-- ⚡ Fun fact **I love playing football, reading productivity books and listening to wellness podcasts**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -65,3 +80,4 @@
 
 
 </p>        
+
