@@ -26,7 +26,7 @@
  
 </td>
 
-<td width="50%" align="center">
+<td width="50%" align="center" border="0px">
 
   <img src="https://github.com/Syed-MuhammadTaha/Syed-MuhammadTaha/assets/112904022/ef9b0ec0-b70a-4e26-b763-a5a0e88a71b5" width="70%" margin="10 auto">
   <h5>👆 Link to my LinkedIn profile!</h5>
