@@ -42,7 +42,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/syed-muhammad-taha-imam-691a45268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed muhammad taha imam" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/syed-muhammad-taha-imam-691a45268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed muhammad taha imam" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22511741/syed-muhammad-taha-imam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="syed muhammad taha imam" height="30" width="40" /></a>
 <a href="https://kaggle.com/syed muhammad taha imam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="syed muhammad taha imam" height="30" width="40" /></a>
 <a href="https://medium.com/@taha-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@taha-dev" height="30" width="40" /></a>
