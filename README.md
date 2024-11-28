@@ -11,17 +11,17 @@
   
   - 🔭 I’m currently working on **portfolio website**
   
-  - 🌱 I’m currently learning **Machine Learning from Coursera**
+  - 🌱 I’m currently learning **MLOPs**
   
-  - 👯 I’m looking to collaborate on **beginner machine learning projects**
+  - 👯 I’m looking to collaborate on **HDI Index using satellite imagery**
   
   - 📝 I regularly write articles on [https://medium.com/@taha-dev](https://medium.com/@taha-dev)
   
-  - 💬 Ask me about **react, machine learning algorithms, node, mongoDB**
+  - 💬 Ask me about **Deep Learning, Generative AI, Tensorflow, Computer Vision, NLP**
   
   - 📫 How to reach me **simam.bscs22seecs@seecs.edu.pk**
   
-  - ⚡ Fun fact **I love playing football, reading productivity books and listening to wellness podcasts**
+  - ⚡ Fun fact **I am about to participate in my first hackathon**
   
  
 </td>
