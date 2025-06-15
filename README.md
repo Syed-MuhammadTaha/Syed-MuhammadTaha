@@ -1,83 +1,143 @@
-<img src="https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg" width="100%">
-<h1 align="center">Hi 👋 curious wanderers, I'm Syed Muhammad Taha Imam</h1>
-<h3 align="center">A passionate machine learning engineer striving to solve interesting real world problems.</h3>
+<div align="center">
+  
+  ![AI Engineer Banner](https://github.com/user-attachments/assets/aa4e326d-7e9f-42aa-ad92-91a476c0482e)
+  
+  **Machine Learning Engineer | AI Engineer | Deep Learning Researcher**
+  
+  *Striving to become a better engineer each day*
+  
+  [![Profile Views](https://komarev.com/ghpvc/?username=syed-muhammadtaha&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/syed-muhammadtaha)
+  [![Followers](https://img.shields.io/github/followers/syed-muhammadtaha?style=for-the-badge&color=blue)](https://github.com/syed-muhammadtaha?tab=followers)
+  
+</div>
 
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=syed-muhammadtaha&label=Profile%20views&color=0e75b6&style=flat" alt="syed-muhammadtaha" /> </p>
+## 🎯 Current Focus
 
-<table align="left" border="0px" outline="none">
-<tr border="none">
-<td width="50%"  border="0px" align="left">
-  
-  - 🔭 I’m currently working on **portfolio website**
-  
-  - 🌱 I’m currently learning **MLOPs**
-  
-  - 👯 I’m looking to collaborate on **HDI Index using satellite imagery**
-  
-  - 📝 I regularly write articles on [https://medium.com/@taha-dev](https://medium.com/@taha-dev)
-  
-  - 💬 Ask me about **Deep Learning, Generative AI, Tensorflow, Computer Vision, NLP**
-  
-  - 📫 How to reach me **simam.bscs22seecs@seecs.edu.pk**
-  
-  - ⚡ Fun fact **I am about to participate in my first hackathon**
-  
- 
-</td>
+```yaml
+🔬 Research: Attention Block Decomposition for reduced parameter count
+🤖 Building: AI Agent Vertical
+📚 Learning: Model Context Protocol (MCP) & Agentic AI frameworks
+🤝 Collaborating: create-rag-app - Open Source RAG Framework
+🎉 Achievement: Our FYP is DAAD funded
+```
 
-<td width="50%" align="center" border="0px">
+## 💡 Expertise & Interests
 
-  <img src="https://github.com/Syed-MuhammadTaha/Syed-MuhammadTaha/assets/112904022/ef9b0ec0-b70a-4e26-b763-a5a0e88a71b5" width="70%" margin="10 auto">
-  <h5>👆 Link to my LinkedIn profile!</h5>
+<div align="center">
+
+| **Core Specializations** | **Research Areas** | **Technical Domains** |
+|:------------------------:|:------------------:|:---------------------:|
+| 🤖 Transformer Models | 🔍 Computer Vision | ⚡ MLOps & CI/CD |
+| 🧠 Deep Learning | 📝 Natural Language Processing | 🛠️ Advanced TensorFlow |
+| 🎯 LLM Fine-Tuning | 🌐 Multi-Agentic Workflows | 📊 Distributed Training |
+| 💬 Prompt Engineering | 🔗 RAG Systems | 🚀 LLM Deployment |
+| 🐳 Docker & vLLM | 🌊 Apache Airflow | 📡 Open-source LLM Inference |
+
+</div>
+
+<div align="center">
   
-  </td>
-</tr>
-</table>
+  **Want to explore my work in an interactive way?**
+  
+  ```bash
+  npx taha-portfolio
+  ```
+  
+</div>
 
+## 🛠️ Tech Arsenal
 
-### Blogs posts
+<div align="center">
+
+### **Languages & Frameworks**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### **AI/ML & Deep Learning**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-FF6B6B?style=for-the-badge&logo=robot&logoColor=white)
+
+### **LLM & Generative AI**
+![LLM Fine-Tuning](https://img.shields.io/badge/LLM%20Fine--Tuning-9B59B6?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-00BCD4?style=for-the-badge&logo=chatbot&logoColor=white)
+![RAG Systems](https://img.shields.io/badge/RAG%20Systems-4CAF50?style=for-the-badge&logo=database&logoColor=white)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent%20AI-FF9800?style=for-the-badge&logo=network-wired&logoColor=white)
+
+### **MLOps & Deployment**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-8E24AA?style=for-the-badge&logo=lightning&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2E8B57?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### **Development & Cloud**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### **Data & Storage**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
+
+</div>
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Syed-MuhammadTaha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Syed-MuhammadTaha&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=8B949E" />
+  
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-MuhammadTaha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
+  
+</div>
+
+## 🏆 Achievements & Recognition
+
+<div align="center">
+  
+  ![Trophy](https://github-profile-trophy.vercel.app/?username=Syed-MuhammadTaha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
+  
+</div>
+
+## 📝 Latest Articles & Insights
+
 <!-- BLOG-POST-LIST:START -->
+*Stay tuned for the latest insights on AI, ML, and emerging technologies...*
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/syed-muhammad-taha-imam-691a45268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed muhammad taha imam" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22511741/syed-muhammad-taha-imam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="syed muhammad taha imam" height="30" width="40" /></a>
-<a href="https://kaggle.com/syed muhammad taha imam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="syed muhammad taha imam" height="30" width="40" /></a>
-<a href="https://medium.com/@taha-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@taha-dev" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/user8021dy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user8021dy" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
+<div align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Syed-MuhammadTaha&theme=aura&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Syed-MuhammadTaha&theme=aura&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Syed-MuhammadTaha&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tahaML)
   
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Syed-MuhammadTaha&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" media="(prefers-color-scheme: dark)" />
-    </a>
 </div>
-<!--- trophy (start) -->
 
+## 🌐 Let's Connect & Collaborate
 
-</p>        
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-muhammad-taha-imam-691a45268/)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22511741/syed-muhammad-taha-imam)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/syedtahaluvsai)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/taha_dev/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simam.bscs22seecs@seecs.edu.pk)
+
+</div>
+
+---
+
+<div align="center">
+  
+  **"Open to exciting collaborations and innovative projects!"** 🚀
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  
+</div>
